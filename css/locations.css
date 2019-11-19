@@ -1,0 +1,13 @@
+.tips{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    justify-content: space-evenly;
+}
+
+.aricle {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    justify-content: space-evenly;
+}
